@@ -1,2 +1,2 @@
-# Portfolio-InternDEV
-Portfolio project given by InternDEV
+# ToDoList-InternDEV
+ToDoList project given by InternDEV
